@@ -8,6 +8,7 @@ A list of must-read books for the science-inclined folks (non-fiction)
   - [Biology / Ecology / Life Sciences](#biology--ecology--life-sciences)
     - [Animal Behavior (ethology)](#animal-behavior-ethology)
     - [Beauty of Insects](#beauty-of-insects)
+ 
 
 <!-- /TOC -->
 
@@ -22,3 +23,13 @@ A list of must-read books for the science-inclined folks (non-fiction)
 ### Beauty of Insects
 - [To Know a Fly](https://www.goodreads.com/book/show/1714723.To_Know_a_Fly), by Vincent G. Dethier
 - [For Love of Insects](https://www.goodreads.com/book/show/379271.For_Love_of_Insects) by [Thomas Eisner](https://en.wikipedia.org/wiki/Thomas_Eisner)
+
+## Physics, Math, Engineering, etc.
+- [Chaos](https://www.goodreads.com/book/show/64582.Chaos), by James Gleick
+- [The pleasure of finding things out](https://www.goodreads.com/book/show/10260.The_Pleasure_of_Finding_Things_Out), by Richard Feynman
+- [The art of insight in science and engineering](https://mitpress.mit.edu/books/art-insight-science-and-engineering), by Sanjoy Mahajan
+- [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/book/show/530415.The_Art_of_Doing_Science_and_Engineering), by Richard Hamming
+
+### General advice
+- [Four golden lessons (for grad students)](https://www.nature.com/articles/426389a), by Steve Weinberg
+- [The importance of stupidity in scientific research](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research), by Martin Schwartz
